@@ -1,0 +1,28 @@
+{
+  "name": "mch-logger",
+  "version": "1.0.4",
+  "description": "Keeps your logs organized",
+  "main": "mch.logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themachinarium/mch-logger.git"
+  },
+  "keywords": [
+    "console",
+    "logger",
+    "mch",
+    "logger"
+  ],
+  "author": "machinarium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themachinarium/mch-logger/issues"
+  },
+  "homepage": "https://github.com/themachinarium/mch-logger#readme",
+  "dependencies": {
+    "util": "^0.12.5"
+  }
+}
